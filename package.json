@@ -1,0 +1,26 @@
+{
+  "name": "dicegame",
+  "version": "1.0.0",
+  "description": "",
+  "deafult": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SK-ILLish-GIT/diceGame_2.git"
+  },
+  "author": "sk_sahil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SK-ILLish-GIT/diceGame_2/issues"
+  },
+  "homepage": "https://github.com/SK-ILLish-GIT/diceGame_2#readme",
+  "dependencies": {
+    "babel-install": "^2.1.0",
+    "core-js": "^3.25.2",
+    "parcel": "^2.7.0",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
